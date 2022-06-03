@@ -1,0 +1,13 @@
+name: NFL-WinProb
+title: NFL-WinProb
+username:
+account: noah-silver
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6099034
+bundleId: 5802650
+url: https://noah-silver.shinyapps.io/NFL-WinProb/
+when: 1650036974.10368
+lastSyncTime: 1650036974.10368
+asMultiple: FALSE
+asStatic: FALSE
